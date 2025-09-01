@@ -6,5 +6,13 @@
     "hash": "3d0661ab361b163e9f762503d38fc62de5cc84dc67f80d6e909c2d816c425fd7",
     "disabled": false,
     "note": ""
+  },
+  {
+    "id": 1,
+    "username": "Behruz",
+    "salt": "801946451e4b67c62e04bc6f59e6743b",
+    "hash": "125ff9da8eca5ac55f9bfdaa01ee358c05ee487bf7bef932e18785b83961ab2b",
+    "disabled": false,
+    "note": ""
   }
 ]
