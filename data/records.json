@@ -28,5 +28,15 @@
     "vip": false,
     "created_at": "2025-09-01T10:18:52Z",
     "updated_at": "2025-09-01T10:18:52Z"
+  },
+  {
+    "id": "b409b434ca06470abf005e75675bfabf",
+    "owner": "academia",
+    "imei_prefix": "35383644",
+    "model": "samsungm55",
+    "phone": "884780068",
+    "vip": false,
+    "created_at": "2025-09-01T10:19:32Z",
+    "updated_at": "2025-09-01T10:19:32Z"
   }
 ]
