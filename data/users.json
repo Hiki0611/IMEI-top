@@ -22,5 +22,13 @@
     "hash": "a6b2b5113e9e0e69c8aa240b15f8327a7b7ec82738a18a183833fb6db589c5d7",
     "disabled": false,
     "note": ""
+  },
+  {
+    "id": 1,
+    "username": "academia",
+    "salt": "d98c6875e896ba23e9a3cba48ab291c2",
+    "hash": "8ce214aa65e86de46e99f5129d263830d043b74c9cd4c91ebc0b5b484f181913",
+    "disabled": false,
+    "note": ""
   }
 ]
