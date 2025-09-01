@@ -34,8 +34,8 @@
   {
     "id": 1,
     "username": "elmurod",
-    "salt": "7e1e9f560c36f72fc15878d6d85c00d5",
-    "hash": "65d56a10540ff8bb3bc7b9e6659d330d92be0f8116497e0a2e0cd86c27efbd88",
+    "salt": "6cabf490451981737ff5ba264df6c0bb",
+    "hash": "0d22da787d753b4a02fb2b6e9434b45e322e2459a36f16686039a1936b3b8cc3",
     "disabled": false,
     "note": ""
   }
