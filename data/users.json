@@ -30,5 +30,13 @@
     "hash": "8ce214aa65e86de46e99f5129d263830d043b74c9cd4c91ebc0b5b484f181913",
     "disabled": false,
     "note": ""
+  },
+  {
+    "id": 1,
+    "username": "elmurod",
+    "salt": "7e1e9f560c36f72fc15878d6d85c00d5",
+    "hash": "65d56a10540ff8bb3bc7b9e6659d330d92be0f8116497e0a2e0cd86c27efbd88",
+    "disabled": false,
+    "note": ""
   }
 ]
