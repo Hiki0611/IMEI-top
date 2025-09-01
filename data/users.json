@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "username": "Cosmo",
+    "salt": "a6cb01edbe83986d562b7124a0f3b872",
+    "hash": "7a42b8bad810f014beeb23c18d728b4f348ae69517e4bfc7730715a112746abc",
+    "disabled": false,
+    "note": ""
+  }
+]
