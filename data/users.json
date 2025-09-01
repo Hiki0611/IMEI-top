@@ -14,5 +14,13 @@
     "hash": "125ff9da8eca5ac55f9bfdaa01ee358c05ee487bf7bef932e18785b83961ab2b",
     "disabled": false,
     "note": ""
+  },
+  {
+    "id": 1,
+    "username": "Azat",
+    "salt": "9c8c7c82691502ffaf585399b6c953d0",
+    "hash": "a6b2b5113e9e0e69c8aa240b15f8327a7b7ec82738a18a183833fb6db589c5d7",
+    "disabled": false,
+    "note": ""
   }
 ]
