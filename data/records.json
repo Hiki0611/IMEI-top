@@ -68,5 +68,15 @@
     "vip": false,
     "created_at": "2025-09-01T10:25:30Z",
     "updated_at": "2025-09-01T10:25:30Z"
+  },
+  {
+    "id": "3acfb31d834249a2b3e88d8ca7c17a1a",
+    "owner": "academia",
+    "imei_prefix": "35659931",
+    "model": "m15",
+    "phone": "884780068",
+    "vip": false,
+    "created_at": "2025-09-01T10:26:11Z",
+    "updated_at": "2025-09-01T10:26:11Z"
   }
 ]
