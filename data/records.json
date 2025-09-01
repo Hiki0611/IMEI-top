@@ -78,5 +78,15 @@
     "vip": false,
     "created_at": "2025-09-01T10:26:11Z",
     "updated_at": "2025-09-01T10:26:11Z"
+  },
+  {
+    "id": "71d611897c49477c818f8e2d2810aeab",
+    "owner": "elmurod",
+    "imei_prefix": "357461212",
+    "model": "SamsungA15",
+    "phone": "907543125",
+    "vip": false,
+    "created_at": "2025-09-01T10:27:03Z",
+    "updated_at": "2025-09-01T10:27:03Z"
   }
 ]
