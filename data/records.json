@@ -18,5 +18,15 @@
     "vip": false,
     "created_at": "2025-09-01T09:12:38Z",
     "updated_at": "2025-09-01T09:12:38Z"
+  },
+  {
+    "id": "0f776ecd553b4c1b9b6f9dc674637a02",
+    "owner": "cosmo",
+    "imei_prefix": "8654568458",
+    "model": "A3X",
+    "phone": "954145201",
+    "vip": false,
+    "created_at": "2025-09-01T10:18:52Z",
+    "updated_at": "2025-09-01T10:18:52Z"
   }
 ]
