@@ -38,5 +38,15 @@
     "vip": false,
     "created_at": "2025-09-01T10:19:32Z",
     "updated_at": "2025-09-01T10:19:32Z"
+  },
+  {
+    "id": "b77421c1f10c4ab9a57c356c82f14763",
+    "owner": "academia",
+    "imei_prefix": "35299048",
+    "model": "a2641",
+    "phone": "884780068",
+    "vip": false,
+    "created_at": "2025-09-01T10:23:46Z",
+    "updated_at": "2025-09-01T10:23:46Z"
   }
 ]
