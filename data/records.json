@@ -78,5 +78,3335 @@
     "vip": false,
     "created_at": "2025-09-01T10:27:03Z",
     "updated_at": "2025-09-01T10:27:03Z"
+  },
+  {
+    "id": "fdc6a0879c35404f92bc03df7622ee2e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35427655",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "2abda33781464961a1f3cf66ec6e86b7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35532248",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "35dd2fa24fa848408f248dc6cf12aed3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35570062",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "65b8b8f19ede46968f9d72f8df9c561b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35233639",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "56a1ddda650f48948f858e817ce6857c",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35264135",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e335925087b9408ea7ac1b6292911f80",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35570031",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "f33e5510d1dc4dc9a92fe5c5158bd94e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35576229",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "4c06c9af6334487bb8e59907876e901e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35586948",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c585fe9321bc44ca8ef7d64ed97383d6",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35580041",
+    "model": "A3289",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "304b303cdb0b4896b698e84b22b3d6aa",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35955265",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "045442109e3f4255b6216663a50c7a7e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35328683",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "76885bc9065b43e6af23e63d5981f15c",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35427655",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9ed12fe447e047059ed9b6594ac6296e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35922238",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "53c3213ebf1f4f89abfc91a50a1f8d6b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35700319",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1ee38566e8c146bf95612f98ac2368b5",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35010872",
+    "model": "A3296",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b6459d8362704d4e990fb0169bd8f447",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35550948",
+    "model": "A3292",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "839cc55f804349a9ab1d75eef71bf179",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35264135",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "f68c858b627b40938c56995abda89d5f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35995343",
+    "model": "A3081",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "cd3fa52975af4d66bba2c3e62e65629f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35576228",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "426cad7910554f3dbe77149ce83136c3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35586229",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "21ea2754b199469c899c048d0de9b40f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35556484",
+    "model": "A3296",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "52eac934d8fe424aa24d48e3caffeb4a",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35879896",
+    "model": "A3295",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "8f11d0682ff842fd89a14d1e9c7720c9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35265719",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "bba51fc7efb24149b979619880bd6c30",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35510918",
+    "model": "A3293",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d0c6b58b7abb49c692de3563f35939e3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35353735",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d8a65f4f7edc4cdba0aeb032c3f70823",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35598382",
+    "model": "16 PRO",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "33f7fa29194644f88ff7c1a9dd902ee9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35450463",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "3e066953d9e349b59577efc5e4583d4d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35144560",
+    "model": "A3081",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "75aab0f020cb45d188fe8bb2fa8ccae9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35891582",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1f96bb032e0644a5b0819214ea7026a8",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35879896",
+    "model": "A3295",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ab6555fe8f204ae2b35a7cc243661ba5",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35270394",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "39a365df9b574aaebd05df3bcd6e86c3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35480226",
+    "model": "A3288",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "126c4761d3cb48e89a37d635c09df18a",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35075369",
+    "model": "A3081",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "747dece9bc05433bb0f09bcdbf06a6a0",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35890078",
+    "model": "A2641",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "18b24c5f2ac949efbcd7e0bee5cd6484",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35530896",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "763aee5748004517b0eafe1d49611b99",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35663768",
+    "model": "S23 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9136262df07d4a3d9d2a7895b0f1b473",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35096237",
+    "model": "S22 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b3536f51472147f58c23b2bfa5cf0321",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35972515",
+    "model": "Z FLIP4 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "644cea51147b4e04a777d5ebb7ef49a7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35324210",
+    "model": "A2160",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c7cd0f0b1e3b4d9ca185a17c88a3eede",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86421907",
+    "model": "LY-LX1",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e33ecaf4d72d40b09bf6448812f12700",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35155259",
+    "model": "A16 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "15b48afaec96442cbabc3a4a4854b704",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35656627",
+    "model": "Z FOLD6",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "78e5dd5a73ed45e597511024b80a5c86",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35408450",
+    "model": "A2896",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "263d27e962bc412babacc9a4585261e7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35091577",
+    "model": "A2632",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "53d7745a9011429e8c92618a146e294a",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35570190",
+    "model": "A2482",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1d7baf0b1953475a829372cb389b0d83",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35590194",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "fd14b60f8cc045f79258f0f124c77e8c",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35205326",
+    "model": "A55 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6a32a44613d64c26bd452494c027e98f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86689207",
+    "model": "CRT-NX1",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "513a67ba6c514ab2b8e4caafe5f1471a",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35947464",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "3cee76564b02469a82c50790ef56a92b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35664920",
+    "model": "S24 FE",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "48a9da1cfdd44d0e85482b4435598218",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35868601",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9f31c801555e443289a490ba638af7b5",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35277252",
+    "model": "A23",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "22546b97668744a8b85d548a0553a56e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35167656",
+    "model": "A35 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "47bb08a958cb44e7aa009a9285fe3cd8",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35222970",
+    "model": "A2896",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "8e3f3c1e17454a46807dc9cc8730f5c9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35860671",
+    "model": "A2849",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "cedbc647e67546218ff05d2a1bd62012",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35051949",
+    "model": "S24 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0100404c9b74462eb95d6f6ee506f25e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35305927",
+    "model": "S24 FE",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "674f65b17ab94e96b68ccdd66ffcf900",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35157536",
+    "model": "A3096",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9f089507559c41a18d5af5d5e9d4e7f6",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35285466",
+    "model": "S22",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d72d3744abfa4e2e87f93350c734c766",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35128350",
+    "model": "Z FLIP4 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c87b69682158478087f65d12471a4783",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35407969",
+    "model": "A2848",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "2d877c3575094c2fa2abce5d95bbe866",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35999900",
+    "model": "S21+5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1eae4a397e3941d58376115acca34eb9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35483120",
+    "model": "S22 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0c7b76b10115408b8389c56f9f452db1",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35133088",
+    "model": "A2342",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "8a257f57f4f4468693c95c36d976de01",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35133177",
+    "model": "S24 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b36081d062e947a8a510ed97b15be9a7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35777157",
+    "model": "A2403",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6d350f47d5714c269cfee6c60a3c814e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35205376",
+    "model": "A2849",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "4130bf9adbbd4d5a9214aff793a3f6aa",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35741419",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1121da1cc8ee4929b407fb533b28a52a",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35107387",
+    "model": "A3105",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "a5b44483482d463d8148171aba913c82",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35652966",
+    "model": "A55",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "a4477018303144ebb1325be9e2882763",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86276907",
+    "model": "POCO X7",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6e85e9c0a6f54cbb9c3b02fe36898323",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35918399",
+    "model": "S24",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b7f7633100b8454d8be2f9458a00b6a3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35500588",
+    "model": "A3108",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d3b1a51682914b7487ebd9c1f6cb76e9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35286911",
+    "model": "A2218",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "42dc7486009f48fcae1389ae62976533",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35054542",
+    "model": "A3108",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9273c4e8586743eab285523539e1d6d7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35372516",
+    "model": "A2894",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "451c16bd3bfb475da6a2c16225abae6c",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35142477",
+    "model": "S22",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d0ced0040f964cca96534159dacad6ea",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35329541",
+    "model": "A2650",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5301fef4fcc347ffa4665514ca88408f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35536426",
+    "model": "A2849",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "f2c098c8baef43dd8af0d49104f18765",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35092266",
+    "model": "Z FLIP 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "05d3a073e2394573bbc3675757ab4a71",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35508758",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "8ec0a48951164e22904c64488405665d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35459268",
+    "model": "A06",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b4d0673b985847fca6b4485f159468aa",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35607112",
+    "model": "A2649",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ef9d2e048e654e64a0d9d0e9256431fc",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35615566",
+    "model": "A3108",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "12c0e49944b84bf2aa9f60ae4449a38f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35534758",
+    "model": "NOTE20",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "74407cb820ca4a98803ce547d67917fa",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35096237",
+    "model": "S22 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "cbb8738dfe9e46dbb6cddd0111e10205",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35219560",
+    "model": "A2481",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5a0ce13e609046648eb3ff6d9f053d7d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35032034",
+    "model": "A2632",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "f7405d2a6e4248d3b0c387f5fce2e90e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35669311",
+    "model": "A2341",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "18ba3f72eae24b3786f9aa5e6a430542",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35391910",
+    "model": "A2218",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "db883105a2a541ea874673e8f0eb48fa",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35404947",
+    "model": "A2896",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1c603453b1014c1bb8ffbcda4b755109",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35241237",
+    "model": "S21 ULTRA 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5017f7296b064a3fa7c3a4fb5c0c8f3f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35585711",
+    "model": "NOTE20+ 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1573046fc94949c09a48b94b79b709f2",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35144698",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "18c94fa3a9584965a02a1212aa455c41",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35904447",
+    "model": "A16",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "fc09cb6c59e345bba698e2806185a385",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35867404",
+    "model": "S24",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "3f59c03b229c459f99405682a96a03ed",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35370369",
+    "model": "A2882",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "03d2f943b20040d69905402bb1f23d4d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35127693",
+    "model": "S24 FE",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ae8932c78aef487b94a9273499fee937",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35786689",
+    "model": "A2636",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "a08527243303406baf350cf264a1bb3e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35308396",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b814bbc0ae314f7ca0ee0e39f019f738",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35142277",
+    "model": "S22",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "01deca9cfcf24d8f83b123c426d92001",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35248522",
+    "model": "A55 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "19fdb83d61d44a7dbe514f40d2635bf7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35849970",
+    "model": "A2890",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "399de084dd9b434faf15f88b5532f471",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35849968",
+    "model": "E3",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "98a22dcd263d4800acfe417f9d429d21",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35818135",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "39285046b1a14a41b09ebdbd60d151db",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35388967",
+    "model": "A2649",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9d52743a77ad42ffa540c768c81a01dd",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35235027",
+    "model": "A54 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6dc460cd09454b67b740a3bd67efac62",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35272662",
+    "model": "16 PLUS",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5c41675918b34950a53c2036d8adcf97",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35265719",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "a0ed772cc3eb47f182e72e1cada67e95",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35569489",
+    "model": "A3292",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0be405fed2ec4da6929d37bdcd9917f6",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35190144",
+    "model": "A3286",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "dbfd1ce0880e4aefaacf1e38942b53ec",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35863762",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "f10a586a8e5a4d0c8a02827f75d05495",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35190154",
+    "model": "A3286",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "62c43859f44a4e1d9de00b8d817ae227",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35427652",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c81d4e224a154cb49c47ffb3e1a0891d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35922238",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "a913a00347c342aca639033253cfb54d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35700319",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5a1b480a536241f4be0e73bb2ec1b416",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35576229",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "bf832dc1d9e44b5ca13aad3fab0ced1b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35427655",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "66a35c4ca93646d2a1f6e0b7c6e0f096",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35353735",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ae5f5892d93f496eb3100c3e19172ac3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35265719",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d5a567ccf1cd4bdd99c6aa1c22791ea9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35435926",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "a457c88384714d7eae7d10cfb31dbbcb",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35270394",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "737481645af34d4da15b8b3d9a4ad2d1",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35265719",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0d80e29da60b45b09e5c34532f1e5d59",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35887662",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "725b23c53be94b75a5611e417cc82372",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35435926",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "4b375466c04342e38d8375f14f91e51d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35406582",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "08a8037a76d246ea88b626a135d03f3b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35114563",
+    "model": "A3081",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "499841d8fa41495589a13f920f33449c",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35435926",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "7a264bf4a1604241b3a73e4f5de22ace",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35047039",
+    "model": "A3081",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e180f8ce549c475c89a9134cf03cdda1",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35964017",
+    "model": "A3297",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "34cae3d2c2ef415f960a3fb960ad359b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35980993",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "8de3631ad114483b92a25404f0fd67a7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35347217",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1628dc69c41d4da8b0580b2aa2126a5e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35581404",
+    "model": "S24 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "a450207f666d40b7b8d1d08e47299b08",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35624513",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "2a6e74abb0e34f7f8679abc204df4a78",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35041174",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e37b96132fc94e8587a13b54682fea78",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35782723",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1b4a07e3969f4ccc943b277d6d2108ba",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35872892",
+    "model": "A2645",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ee574e0a35d344dfb5fde74285586eb0",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35595392",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "bb3f92df0b1e41a790660b1398221b92",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35253599",
+    "model": "S22",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "de07fe9acaa04daba09fb81cbdf33647",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35661786",
+    "model": "S23 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "41871bc7af234a7e871bab40684992bb",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35133689",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c9c7f74c27d548cf8cf902310c5a1644",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35782006",
+    "model": "A3081",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "97939f4c45a248f194da0b7cea638dd3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35180008",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "bea3127e70f348ae8e9fde66a3ccaaeb",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35400246",
+    "model": "A2649",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5ad9cd7681524a6c9582472375f2bb37",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35930193",
+    "model": "A2482",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "99e069ada3ea4c0295eb933badd10586",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35180310",
+    "model": "A2482",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e18aa32af526400a8208fc9b13933352",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35964146",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "4b78bb84b25e438b85eab72ac8e05c73",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35209254",
+    "model": "A73 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "abf8b77fff434160ad1274be01aac56e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35264800",
+    "model": "A2848",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "fd6130691494473b9994d8df846154ea",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35923875",
+    "model": "A3108",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d996b8d1e49241959f17810648bf2c41",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35052940",
+    "model": "S24 FE",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6e904a0e580449a6be972481dda1fa9c",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35267571",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "71512cc38dd845e7bdf6552f1bdafff3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35267258",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0841bf4711eb4c03bf4f9761118d60d1",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35353872",
+    "model": "A2650",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0c9f294c62164005bdbec9f891870936",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35926726",
+    "model": "Z FLIP5",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5a69b1ed92fc4d4eb9ba99e7a8e0605d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35277447",
+    "model": "S23 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c5d92d48ccfd489b8a39587d80078a31",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35852500",
+    "model": "Z FLIP5",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "635194fbc598471380cd3a5a96a9239d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35291151",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c605a3f2ef8b41c4a497b132677ed4ca",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35068306",
+    "model": "A3094",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "2186654889f745a19649b38eff26e622",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35331164",
+    "model": "A3094",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "4c056681135c441a89b793c8fb2f5594",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35624831",
+    "model": "A15",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "7d0736630050437bacb777aa01323e49",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35436624",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "bcbc22d4db5f45588d4b0e25add50e8b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35907341",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "feba82513b0647c784dbb5bf3fb01fe1",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35350741",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d1bcb954efcd487db0e145a397fd5bc4",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35647312",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "962b3dcde97b4145abac6273eaccfc43",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35558110",
+    "model": "A55 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "3f002d80cf194c848148bb5c7d660263",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35047119",
+    "model": "MOTIX+ 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c485cd5acb284714a3bcfcb6d561fcca",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35868159",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "2e460f06cc6d496cb80bbd7c41c60cc3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35856541",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5fdcf9404fb0454d9e8b2223deb95090",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35097220",
+    "model": "NOTE 40 PRO+ 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "028198649055412fb80a846d54cb103d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35725775",
+    "model": "A282",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "eb78641c43e84111bdffc57c2e4454b3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35880559",
+    "model": "A2641",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e10434053fb84afdbe398134629ce8c9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35808409",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "15e88d159d7543968d97365a04440998",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35624870",
+    "model": "A2650",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "8dc19ca7269c4d13b136b29f6d0f26fc",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35120468",
+    "model": "A75",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c61940fdd8664e2598874fbaf5b94ff4",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35742149",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "507e019086a447308648847871f88056",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35018729",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "595381bf84f041ac8644d4f220ff31f8",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35012938",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "08c20ecb7f8e478d82c8c33ac55fa6fc",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35139193",
+    "model": "A3103",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "585f9f09887340db96c2bf5639e0ef53",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35249931",
+    "model": "A12",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b444d8ca574a488d8bcc689dcb3783b9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35343387",
+    "model": "A3101",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "062cc4cb658348ae90a294126f432cd7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35995620",
+    "model": "A73 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5ed5ff4e02f24dfa9b5787a9ad77f850",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35016547",
+    "model": "IPHON LPRO A24",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5980b99d25454a6793f3a21b578bb529",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35017449",
+    "model": "15 PRO MAX A106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9c95da0ccb02472a92c9863f1bc6686a",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35117465",
+    "model": "S23 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9b6142dbd3d04a2f88f39daaba8aa918",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35309477",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "7b3b8840cf924ad7aab0a33e5f4a90ef",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35074253",
+    "model": "A3227",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "4db172ead87c4c2197c0682e2d85f018",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35323132",
+    "model": "S24 FE",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "2e09c75789d84beb8cf9569eb37eda55",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35967927",
+    "model": "A14 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b93625aa62bb439299c56f1b55024910",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35495611",
+    "model": "S20 ULTRA 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1d553b439dd54ca28cd355a2d9230107",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35905751",
+    "model": "A3104",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9c5e8fb646154100b13b89767216c21e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35344411",
+    "model": "A46",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "f9d3843047da4696add309e07a2e50d1",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35802599",
+    "model": "A3096",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "70593e2fe73d43668f6fd72c30cfb826",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35424259",
+    "model": "A1100",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "eec1cfa31cdd495088e165fad6005bcc",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35019659",
+    "model": "S21 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "7925ea2bb28948fc834ef845e471a667",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35272386",
+    "model": "A2633",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b9eee623d0924ae39d20b44ce7657007",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35351794",
+    "model": "А3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "72a6c0319291471e82731f89055e4504",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35598212",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1d98629984b64447822f4f296d3f4731",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35621667",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "7333f4fe23d040058d021e40b43fd13f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35493829",
+    "model": "S24 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "baf52d8ab69546f4b2744bad6bf64aaf",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35572005",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "2949c4d114204a72820ceb8009c164e9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35596952",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "97d9e92fb2ef44ca95bac66e45de4a13",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35970390",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "f2356f738d6145ef9389b299eae396ed",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35013060",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0a0fd14f4c884827ba967736a86055b4",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35955127",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b4009e707d4d4aaca9104cad81064b8e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35496458",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c4e114e6d7474dd0a49781d1bb30dd6b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35097881",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c0cea97f26ac46bc8a592e06c4a0fb0c",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35570191",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "435e1e9ea77f407d927f86e6d82bebad",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35688611",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c46f565038ad4d58a0e3c50fb26ca7ef",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35205326",
+    "model": "A55 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e6283bd2d71947a48991ee4407eca49f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35675283",
+    "model": "A2632",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "553f4a5f3ae84ca78fbb053da3e4993b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35422566",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e79698613f0d4defab4de36c47ccf7dc",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35462846",
+    "model": "A2482",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "39c28b2dc5a348629485d69be1a8b5ef",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35586680",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "171bcb441b684cd1b7ca468835cd6b22",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35789578",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5441e4cf659c49fc905aa2b6f83b1ecf",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35167656",
+    "model": "A35 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "cf08c68fb1f948b287c4c17497cf2ccd",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35222970",
+    "model": "A2843",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ae93b850dc8c4455aa91a66bccd4a7b8",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35560671",
+    "model": "SAMSUNG A55 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "7f0bd6bc51504ac5b7c7f7520c31fcc8",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35015184",
+    "model": "NOTE 30",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "34ccd48f66434833a1be605d76390cad",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35305927",
+    "model": "14 PRO MAX A2894",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "a1e43d240a8c4a34819881be8613d5bb",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35999900",
+    "model": "POCO M4",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "02ac7595133344d2959eb87e1feae8c8",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35285466",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b9f73365e697468a97754921f79d9d1f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35128350",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6d996924991e4089ad94d04987ff6153",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35359192",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "afbc43159a0c45a19a651abe2958e60a",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35349891",
+    "model": "A2342",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "954861f026d34e598b12765693ab7d6a",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35483120",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "2387e9f9172544ddb1bcb37b5260e665",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35133088",
+    "model": "A2342",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "8fc34018858441e3951a213776865710",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35133177",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "13666785e1a94ae4a7a46030904e51d9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35777157",
+    "model": "A2403",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "82d1419236154d80a2bfff0b105df638",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35205376",
+    "model": "A2220",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "98e7f0e4798a46578f96f3e0a6478418",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35124101",
+    "model": "A2160",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "fc3e2d00708248d891c1591b06267433",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35160803",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e058162db42946a480bdb3b8edf9d842",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35955132",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d6837fa4e83a46c9953cef441dc46ceb",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35208652",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "22cd208f764141fcbae990f8a44e15c4",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35208652",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e55ed59c611d4df7b538c848dd667d33",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35918399",
+    "model": "A2632",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "500f3c9b05914d3bb64344e31d30e209",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35500588",
+    "model": "A3108",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "77652980c7524ec8832f03de375deef8",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35286911",
+    "model": "A2218",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "be1ce0ef452a427f9a2a954442dcd0c2",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35054542",
+    "model": "A3108",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "276041d5c933488d82b0e9c4c8b87906",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35372516",
+    "model": "A2894",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "2acec0f9120142e4a42edf833c288201",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35142477",
+    "model": "S22",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5896fecd8e8b474dbc2edbccd06f4f95",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35329541",
+    "model": "A2650",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6e36f89ad9034c39bc67927ffba989ff",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35536426",
+    "model": "A2849",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "71c45836bc7c459a9fa566fe0965d31f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35092266",
+    "model": "Z FLIP5",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "8735063c0e764b9eaa11ead0b77df015",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35508758",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c031f524e50c4a55bfd803ed612d8723",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35459268",
+    "model": "A06",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0f11bd78f324471999fbfc47acc57591",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35607112",
+    "model": "A2649",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0c02f6d3ec2b40e693abdfec7667f175",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35615566",
+    "model": "A3108",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1b6077d0c6fb4561b8803f44fd88192b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35534758",
+    "model": "NOTE20",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "806d5fe17c10401ea9ce5fdc24217427",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35096237",
+    "model": "S22 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6a5e6f55f318483c93be99f5794db6ea",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35219560",
+    "model": "A2481",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d83c9bc3e03d4f7daa955a62c2b1558a",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35032034",
+    "model": "A2632",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d845bad25f8147e1aceb390dd7a36810",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35669311",
+    "model": "A2341",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "882cf1291f8346dfa59acc2455835a9c",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35391910",
+    "model": "A2218",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "21d79f3565a64c33815856b124cf9af7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35404947",
+    "model": "A2896",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b28e5531342e4993a3b239595cbeceb0",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35241237",
+    "model": "S21 ULTRA 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "4f0dd552ceea477281e551f99e5fb822",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35585711",
+    "model": "NOTE20+ 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ccd5aeb8679443dd93b8ab542d9b40f8",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35144698",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "e9a15471e5814fba992ed8391acc1cb9",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35904447",
+    "model": "A16",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "860a461794354399a9faba2a226fadf7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35867404",
+    "model": "S24",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "718896aaa900426b8dd4a1381a143e9b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35370369",
+    "model": "A2882",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "27ecb9163bf746538364a60e0f97135f",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35127693",
+    "model": "S24 FE",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d59e587f1d3e47458b6a178044a5698c",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35786689",
+    "model": "A2636",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "522cd5c6bea1413b8b9c41d6de9f34d2",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35308396",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "150818a9b7624cdbb7c460a24a3551d3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35142277",
+    "model": "S22",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c526a10ef0804feabfd5054868520457",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35248522",
+    "model": "A55 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "dfe4dd0c1dcb4d40892fe1f4cc88f2ce",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35849970",
+    "model": "A2890",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c91edc4d472340079f50839dba4d8060",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35849968",
+    "model": "E3",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6a76773986e54b54ac0c0089f8c4da01",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35818135",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "750f0ce615ea4471bdfcd36c4cdb8bc8",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35388967",
+    "model": "A2649",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0bc37042cd2f44eca3b153380a7f000d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35235027",
+    "model": "A54 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0da45e98fc53414381bd8190e004bc83",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35980737",
+    "model": "A2482",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "f52e73f191a24d4ab290865d09969ef0",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35016817",
+    "model": "E2",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d80371024d4d4fb197a39e33699e0a98",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35487903",
+    "model": "A3108",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1d4d40e4316a43c4989ec4afc0b15f29",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35053282",
+    "model": "A201",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "b0f6b0f951964a8082cb32ad04d937e7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35124326",
+    "model": "A2683",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "33b6d325a5854561a6d4c60b63bc1df3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35821034",
+    "model": "A2403",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1999b94dbe7b439ea0c23dfce1a7f4c2",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35811885",
+    "model": "A2403",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ac1e9009311a4debbf1ea9d2f39f9c80",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35626382",
+    "model": "A2402",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6c3c5ae2adea4601bdd65f1113cdb9de",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35579930",
+    "model": "A2382",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0d528da6a45340c9a3527065a71d7590",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35593999",
+    "model": "A078",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9219ccb57d574083bdd17cde2e1af198",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35716479",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "8c0680af20e74c398719dcc8ebf968e7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35730477",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "558eb14af6494740a884c1456fbc24da",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35264911",
+    "model": "S20 ULTRA 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "56f58d6a60b94be893af0c7ef123976e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35154324",
+    "model": "A3104",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "37b48cbda657444296f89175a8799657",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35014818",
+    "model": "A2482",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5cf3098f6b494c109980b2bfd8aad503",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35660618",
+    "model": "S22 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "1f59d063a51841e086d13efba269f644",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35674177",
+    "model": "S24 FE",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ec42e3e9e83d42e28cd2a86fda077e4d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35887110",
+    "model": "NOTE20+ 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "71572f626fbf4ddc884dd8d7ce71ff2a",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35886915",
+    "model": "S22 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6a084be6fa3441be9ec302ce6d98233b",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35534631",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "31bf2eb7e46343e19da34e6b0edcf615",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35284812",
+    "model": "A2643",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "230161d2c84747f2a390dc7c4bb80732",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35590995",
+    "model": "A2651",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "7c479eb08bd64c7eb8c1d4c81d188acf",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35479015",
+    "model": "A2221",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "4f4a3c2366034a92bfc97a4ae4934422",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35475281",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "24cfe9d1edb94c129582803551b0be10",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35470806",
+    "model": "A3082",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "efc3dea8b66146e3936a62fcc44479f3",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35573472",
+    "model": "A3083",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "a566cbfc8702418fb088c42354254d26",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35853513",
+    "model": "S23 FE",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5477bed81e4f42b6887beb8cc4d9aa7e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35820779",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "3b632d14647b447387ee3430f1efb3b1",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35425287",
+    "model": "A2784",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "f561f2d5f4744296870201adde7023be",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35969179",
+    "model": "S21 ULTRA",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "99d4e136341546ec9384ab4be03f6829",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35900895",
+    "model": "NTH-NX9",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "fa22c4477f7b419cb18a24e8dc71fb50",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86255060",
+    "model": "RMO-M311",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "806435124a3d42c7ae145f2939b51250",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86212002",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "c1d4e9616ac642a9ac4136208db3a1a5",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35325179",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6e4b8e1bb5644af6ab38727d677aa9fb",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35021749",
+    "model": "A2404",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "341982bb887041d189bdc3064b76c4b5",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86668007",
+    "model": "NOTE 11 PRO",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "28e82a014dd8446e9100f083eaf8c27e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86910405",
+    "model": "A3084",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5fb0c4f170ac4325aa33ab702a264701",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35032410",
+    "model": "A12",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "57760407a06941fcafec19463fe76ba0",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35390221",
+    "model": "A53 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "8806efa1586c4369baa964233454c97d",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35112484",
+    "model": "A317E",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "eb266aa25746481bbee2cecbf10054fd",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35675151",
+    "model": "A2342",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "07ba3cb649554adcb0d37143ec78b46e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35865115",
+    "model": "A3406",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "d566b37b5b744d829a62dab9ee43eb94",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35170641",
+    "model": "A21",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ca1eb082e7bc4c8ba92e52c8986a1c92",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35408985",
+    "model": "A55 5G",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "69860eb9e01f44a389a497b02d0f422e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86856522",
+    "model": "11T PRO",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "005c00aec2a64b1597f5cbbd0444d612",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86479062",
+    "model": "REDMI 12C",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "2df97639f8734920881166fe1e7973d5",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35408982",
+    "model": "CAMON 20",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "9b7639b078b74a1da20f0d5ae3df9646",
+    "owner": "ThomSin1998",
+    "imei_prefix": "36025496",
+    "model": "NOTE 12 P",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "0bcb6fd4fac54cb68583cac39930f669",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86479062",
+    "model": "REDMI 12",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "7b2331dc316b4b2282026e8b53875184",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35115860",
+    "model": "DM3",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "6ba5cec0aead44d8a6eb8295da6e80ff",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35519530",
+    "model": "S23 FE",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "5c6e4b48b4504f459fdc178165425fba",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86754961",
+    "model": "REDMI 12",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "7174d48eefaa4ef19fe8fe6711146244",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86811960",
+    "model": "A3+",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "a881a327e13240129abd0717e99f1c54",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35721457",
+    "model": "GO 2024",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "ab6f904cf68247bd8146181785f0863e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86002266",
+    "model": "RMO-M31",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "3c005c70852d48e8ad397b912159f66e",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35477380",
+    "model": "S20 FE",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "f0adfe05e961461cb7cf0aa3a3ab6977",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35890171",
+    "model": "A3106",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "012c973d4f9e49259ec490f73335b609",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35029098",
+    "model": "DM3",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "4ac99b651cdb49c5b4edfd63e208192c",
+    "owner": "ThomSin1998",
+    "imei_prefix": "86314565",
+    "model": "VNE-LX1",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "202b0fa7427c4c4ea3d084a8d7e76eb7",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35858998",
+    "model": "A316",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "081064c32a094f09b94f2232e9dddeb2",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35699903",
+    "model": "A319",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
+  },
+  {
+    "id": "407ab4efe46d4aefb2895034e2f74926",
+    "owner": "ThomSin1998",
+    "imei_prefix": "35269708",
+    "model": "A2987",
+    "phone": "991202098",
+    "vip": false,
+    "created_at": "2025-09-02T15:21:09Z",
+    "updated_at": "2025-09-02T15:21:09Z"
   }
 ]
