@@ -38,5 +38,13 @@
     "hash": "0d22da787d753b4a02fb2b6e9434b45e322e2459a36f16686039a1936b3b8cc3",
     "disabled": false,
     "note": ""
+  },
+  {
+    "id": 1,
+    "username": "erikbro",
+    "salt": "8100e9a7614b6e651d21f49a703698a2",
+    "hash": "bae2cdb9feac4524ebe4f28cdaa8ab560d0a7ca5ea0c4a1d98bd504e1924a08b",
+    "disabled": false,
+    "note": ""
   }
 ]
