@@ -1,15 +1,5 @@
 [
   {
-    "id": "e6aa7ee0f20a4f648377ed698bfa80a7",
-    "owner": "cosmo",
-    "imei_prefix": "78963214",
-    "model": "apple",
-    "phone": "991419898",
-    "vip": false,
-    "created_at": "2025-09-01T09:12:14Z",
-    "updated_at": "2025-09-01T09:12:14Z"
-  },
-  {
     "id": "6fbc215dece14333aedf1f405aa74fd3",
     "owner": "cosmo",
     "imei_prefix": "44455566",
