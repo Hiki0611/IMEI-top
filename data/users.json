@@ -46,5 +46,13 @@
     "hash": "bae2cdb9feac4524ebe4f28cdaa8ab560d0a7ca5ea0c4a1d98bd504e1924a08b",
     "disabled": false,
     "note": ""
+  },
+  {
+    "id": 1,
+    "username": "ThomSin1998",
+    "salt": "f6c73c4fdd9fa4894489e98bf7482d81",
+    "hash": "701072e6fdabb00b89d2c52fe97a06304c692971f00f902399e6708b5e8c7825",
+    "disabled": false,
+    "note": ""
   }
 ]
