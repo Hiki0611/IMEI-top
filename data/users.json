@@ -54,5 +54,13 @@
     "hash": "701072e6fdabb00b89d2c52fe97a06304c692971f00f902399e6708b5e8c7825",
     "disabled": false,
     "note": ""
+  },
+  {
+    "id": 1,
+    "username": "gsmservice",
+    "salt": "d79c2379c05fd0dc5fee9bebbe5c8b35",
+    "hash": "3b77295e20b8cc101b4ba3776610fb718d205f52916082681a141312ac7d008c",
+    "disabled": false,
+    "note": ""
   }
 ]
