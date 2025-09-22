@@ -62,5 +62,13 @@
     "hash": "3b77295e20b8cc101b4ba3776610fb718d205f52916082681a141312ac7d008c",
     "disabled": false,
     "note": ""
+  },
+  {
+    "id": 1,
+    "username": "Mrshaxruzchik",
+    "salt": "10278b2bed4aba376724da0f3303dd8d",
+    "hash": "3120f4ddfaf0cb39e9a740f5b4d2b99e87c521fc8e25b15a6b757f996e025249",
+    "disabled": false,
+    "note": ""
   }
 ]
